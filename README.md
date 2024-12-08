@@ -5,13 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently working **Angullar/React**
+- 🌱 I’m currently working **Angular/React**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://aysenurrozdemir.github.io/)**
 
 - 📫 How to reach me **aysenurtutal723@gmail.com**
 
-- ⚡ Fun fact **Volleyball and sailing are my favorite hobbies.**
+- ⚡ Fun fact: **Volleyball and sailing are my favorite hobbies.**
 
 ## 🚀 Languages and Tools:
 
@@ -34,8 +34,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/sebahattinozdemir/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sebahattinozdemir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/aysenurrozdemir/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aysenurrozdemir&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
