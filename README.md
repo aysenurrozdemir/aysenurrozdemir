@@ -49,7 +49,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aysenurrozdemir/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "www.linkedin.com/in/aysenur-ozdemir-934522192"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
